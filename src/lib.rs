@@ -1,5 +1,4 @@
 // src/lib.rs
-extern crate windows;
 
 pub mod memory;
 
