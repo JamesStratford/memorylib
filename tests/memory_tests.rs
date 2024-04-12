@@ -2,7 +2,7 @@
 
 #[cfg(test)]
 mod tests {
-    use memory_editor::memory;
+    use memorylib::memory;
 
     #[test]
     fn test_read_null() {

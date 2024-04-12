@@ -1,5 +1,5 @@
 [package]
-name = "memory-editor"
+name = "memorylib"
 version = "0.1.0"
 edition = "2021"
 
@@ -9,6 +9,6 @@ edition = "2021"
 windows = "0.54.0"
 
 [lib]
-name = "memory_editor"
+name = "memorylib"
 crate-type = ["rlib"]
 # Change to staticlib for C/C++ lib
